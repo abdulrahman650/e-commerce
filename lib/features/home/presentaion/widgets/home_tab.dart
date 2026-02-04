@@ -4,6 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../../core/resources/assets_manager.dart';
+import 'announcements_section.dart';
+import 'category_item.dart';
+import 'custom_section_bar.dart';
 
 class HomeTab extends StatefulWidget {
   const HomeTab();
