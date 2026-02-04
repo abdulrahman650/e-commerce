@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import '../../../../core/resources/assets_manager.dart';
 import '../../../../core/resources/color_manager.dart';
 import '../../../../core/widgets/home_screen_app_bar.dart';
+import '../../../profile/presentaion/screens/profile_tab.dart';
+import '../../../wishlist/presentaion/widgets/wishlist_tab.dart';
 import '../widgets/categories_tab.dart';
 import '../widgets/home_tab.dart';
 
