@@ -1,6 +1,7 @@
-import 'package:ecommerce/core/widgets/loading_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+
+import '../widgets/loading_indecator.dart';
 
 class UIUtils {
   static void showLoading(BuildContext context) => showDialog(
