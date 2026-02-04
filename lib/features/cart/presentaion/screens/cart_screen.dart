@@ -5,7 +5,7 @@ import '../../../../core/resources/color_manager.dart';
 import '../../../../core/resources/styles_manager.dart';
 import '../../../../core/resources/values_manager.dart';
 import '../widgets/cart_item.dart';
-import '../widgets/tolol_price_and_checout_button.dart';
+import '../widgets/tolol_price_and_checkout_button.dart';
 
 class CartScreen extends StatelessWidget {
   const CartScreen();
